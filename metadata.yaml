@@ -1,0 +1,38 @@
+_repo: Tine_75022
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tallgren, Anna-Maria
+    birthdate: 1886
+    deathdate: 1949
+    gutenberg_agent_id: '53442'
+    url: http://www.gutenberg.org/2009/agents/53442
+    wikipedia: https://fi.wikipedia.org/wiki/Anna-Maria_Tallgren
+creator:
+  author:
+    agent_name: Bang, Herman
+    alias: Bang, Herman Joachim
+    birthdate: 1857
+    deathdate: 1912
+    gutenberg_agent_id: '3638'
+    url: http://www.gutenberg.org/2009/agents/3638
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herman_Bang
+    - https://da.wikipedia.org/wiki/Herman_Bang
+description: ''
+gutenberg_issued: '2025-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75022'
+language: fi
+pgterms:marc905: 20241022110645bang
+pgterms:marc906: '1919'
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $bOtava, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tine
+url: http://www.gutenberg.org/ebooks/75022
