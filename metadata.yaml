@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53442'
     url: http://www.gutenberg.org/2009/agents/53442
     wikipedia: https://fi.wikipedia.org/wiki/Anna-Maria_Tallgren
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bang, Herman
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herman_Bang
     - https://da.wikipedia.org/wiki/Herman_Bang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75022#Tine
 gutenberg_issued: '2025-01-02'
 gutenberg_type: Text
 identifiers:
